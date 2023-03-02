@@ -2,5 +2,4 @@ Michael Waddell is a senior software architect focused on the use of artificial 
 
 Primary Technologies: C#/.NET, TypeScript, React, SQL, Python, Bash
 
-![snake animation](https://github.com/mwaddell/mwaddell/blob/output/github-contribution-grid-snake2.svg)
 ![image](https://user-images.githubusercontent.com/750244/151836715-3f184047-f1d6-44f9-931c-a32652d77882.png)
